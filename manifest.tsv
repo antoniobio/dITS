@@ -1,0 +1,5 @@
+id	forward-absolute-filepath	reverse-absolute-filepath
+ERR8407189	$PWD/dITS/ERR8407189_R1.fastq.gz 	$PWD/dITS/ERR8407189_R2.fastq.gz
+ERR8407190	$PWD/dITS/ERR8407190_R1.fastq.gz	$PWD/dITS/ERR8407190_R2.fastq.gz
+ERR8407198	$PWD/dITS/ERR8407198_R1.fastq.gz	$PWD/dITS/ERR8407198_R2.fastq.gz
+ERR8407199	$PWD/dITS/ERR8407199_R1.fastq.gz	$PWD/dITS/ERR8407199_R2.fastq.gz

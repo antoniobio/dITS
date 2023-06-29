@@ -1,0 +1,5 @@
+id	cond	bioproject	source	time
+ERR8407189	Fungi_Grapes_VineyardB_Before_Veraison	PRJEB50329	Grape	G1
+ERR8407190	Fungi_Grapes_VineyardB_Harvest	PRJEB50331	Grape	G3
+ERR8407198	Fungi_Soil_VineyardB_Before_Veraison	PRJEB50333	Soil	S1
+ERR8407199	Fungi_Soil_VineyardB_Harvest	PRJEB50335	Soil	S3
